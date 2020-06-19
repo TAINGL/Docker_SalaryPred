@@ -1,0 +1,8 @@
+numpy>=1.17.3
+matplotlib>=3.1.1
+pandas>=0.25.2
+pickle5>=0.0.8
+requests>=2.22.0
+json262>=0.2.0
+scikit-learn>=0.21.3
+Flask>=1.1.1
